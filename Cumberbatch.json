@@ -5,20 +5,20 @@
 	"color": "#070F16",
         "authors": [
 		{
-			"name": "pwn",
+			"name": "Samuel L. Jackson Himself",
 			"id": "138707258514210817"
 		}
 	],
 	"background": {
-		"blur": 20,
+		"blur": 5,
 		"url": "https://th.bing.com/th/id/R.be3bc0071e6789efc8adcba18f7e98c5?rik=UKU%2bhGKxuikmNw&riu=http%3a%2f%2fwww4.pictures.zimbio.com%2fgi%2fBenedict%2bCumberbatch%2bImitation%2bGame%2bScreening%2bjAO5NJvILXHl.jpg&ehk=6OfvtSgmdC1uFcAbB6Str89B2YYM0xc8B1tThO%2fj%2b4c%3d&risl=&pid=ImgRaw&r=0",
 		"alpha": 0.9
 	},
 	"theme_color_map": {
 		"KEYBOARD": ["#070F16", "#070F16"],
-		"BACKGROUND_PRIMARY": ["#3A3D44", "#3A3D44"],
-		"BACKGROUND_SECONDARY": ["#16212C", "#16212C"],
-		"BACKGROUND_SECONDARY_ALT": ["#434854", "#434854"],
+		"BACKGROUND_PRIMARY": ["#4b4fd2", "#4b4fd2"],
+		"BACKGROUND_SECONDARY": ["##3c3fa8", "#3c3fa8"],
+		"BACKGROUND_SECONDARY_ALT": ["#242564", "#242564"],
 		"BACKGROUND_TERTIARY": ["#2C2B32", "#2C2B32"],
 		"BACKGROUND_ACCENT": ["#4C444D", "#4C444D"],
 		"BACKGROUND_FLOATING": ["#2C2B3C", "#2C2B3C"],
