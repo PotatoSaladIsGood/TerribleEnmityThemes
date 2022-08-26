@@ -1,6 +1,6 @@
 {
 	"name": "Cumberbatch",
-	"version": "1.0",
+	"version": "1.0.1",
 	"description": "The world's worst theme.",
 	"color": "#070F16",
         "authors": [
@@ -10,7 +10,7 @@
 		}
 	],
 	"background": {
-		"blur": 5,
+		"blur": 0,
 		"url": "https://th.bing.com/th/id/R.be3bc0071e6789efc8adcba18f7e98c5?rik=UKU%2bhGKxuikmNw&riu=http%3a%2f%2fwww4.pictures.zimbio.com%2fgi%2fBenedict%2bCumberbatch%2bImitation%2bGame%2bScreening%2bjAO5NJvILXHl.jpg&ehk=6OfvtSgmdC1uFcAbB6Str89B2YYM0xc8B1tThO%2fj%2b4c%3d&risl=&pid=ImgRaw&r=0",
 		"alpha": 0.9
 	},
@@ -19,8 +19,8 @@
 		"BACKGROUND_PRIMARY": ["#4b4fd2", "#4b4fd2"],
 		"BACKGROUND_SECONDARY": ["##3c3fa8", "#3c3fa8"],
 		"BACKGROUND_SECONDARY_ALT": ["#242564", "#242564"],
-		"BACKGROUND_TERTIARY": ["#2C2B32", "#2C2B32"],
-		"BACKGROUND_ACCENT": ["#4C444D", "#4C444D"],
+		"BACKGROUND_TERTIARY": ["#656692", "#656692"],
+		"BACKGROUND_ACCENT": ["#28283a", "#28283a"],
 		"BACKGROUND_FLOATING": ["#2C2B3C", "#2C2B3C"],
 		"BACKGROUND_MENTIONED": ["#182423", "#182423"],
 		"BACKGROUND_MOBILE_PRIMARY": ["#445454", "#445454"],
@@ -30,8 +30,8 @@
 		"BACKGROUND_MODIFIER_SELECTED": ["#16212C", "#16212C"],
 		"BACKGROUND_NESTED_FLOATING": ["#434854", "#434854"],
 		"BACKGROUND_MODIFIER_ACCENT": ["#2C2B32", "#2C2B32"],
-		"CHANNELS_DEFAULT": ["#4C444D", "#4C444D"],
-		"CHANNEL_ICON": ["#2C2B3C", "#2C2B3C"],
+		"CHANNELS_DEFAULT": ["#74759c", "#74759c"],
+		"CHANNEL_ICON": ["#74759c", "#74759c"],
 		"TEXTBOX_MARKDOWN_SYNTAX": ["#46A799", "#46A799"],
 		"TEXT_NORMAL": ["#46A799", "#46A799"],
 		"TEXT_MUTED": ["#46A799", "#46A799"],
@@ -43,19 +43,19 @@
 		"TEXT_LINK": ["#46A799", "#46A799"]
 	},
 	"colours": {
-		"PRIMARY_DARK": "#434854",
-		"PRIMARY_DARK_100": "#2C2B32",
-		"PRIMARY_DARK_200": "#4C444D",
-		"PRIMARY_DARK_300": "#2C2B3C",
-		"PRIMARY_DARK_360": "#505050",
-		"PRIMARY_DARK_400": "#182423",
-		"PRIMARY_DARK_500": "445454",
-		"PRIMARY_DARK_600": "#070F16",
+		"PRIMARY_DARK": "#4c4cff",
+		"PRIMARY_DARK_100": "#9393ff",
+		"PRIMARY_DARK_200": "#49497f",
+		"PRIMARY_DARK_300": "#3a3a65",
+		"PRIMARY_DARK_360": "#616183",
+		"PRIMARY_DARK_400": "#4d4d68",
+		"PRIMARY_DARK_500": "#9494a4",
+		"PRIMARY_DARK_600": "#676772",
 		"PRIMARY_DARK_630": "#59595C",
-		"PRIMARY_DARK_700": "#3A3D44",
-		"PRIMARY_DARK_800": "#16212C",
-		"PRIMARY_DARK_900": "#434854",
-		"BRAND_NEW": "#2C2B32"
+		"PRIMARY_DARK_700": "#48484f",
+		"PRIMARY_DARK_800": "#a3a3a7",
+		"PRIMARY_DARK_900": "#a3a7a3",
+		"BRAND_NEW": "#9999ff"
 	},
 	"unsafe_colors":{
 		"CHAT_GREY": "#070F16"
